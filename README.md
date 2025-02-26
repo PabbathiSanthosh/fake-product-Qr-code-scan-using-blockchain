@@ -14,8 +14,8 @@ We have used these following technologies
 * Blockchain : Ganache & Brownie
 * Testing : Pytest
 
-# [Frontend](https://github.com/Abhishekkumar021/TrustQR-Frontend/)
-# [Backend](https://github.com/Abhishekkumar021/TrustQR-Backend)
+# [Frontend](https://github.com/PabbathiSanthosh/TrustQR-Frontend/)
+# [Backend](https://github.com/PabbathiSanthosh/TrustQR-Backend)
 
 # Cloning the project
 To clone the project, open a terminal and navigate to the directory where you want to clone the project. Then, run the following command :
@@ -61,10 +61,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# Page Screenshots :
-## [Admin Dashboard](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Admin_Dashboard.jpeg)
-## [Dashboard](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/DashBoard.jpeg)
-## [Add Products](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Add_Product.jpeg)
-## [Product Detail From Admin Dashboard](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Product_details.jpeg)
-## [Home](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/Home.jpeg)
-## [Scan QR](https://github.com/Abhishekkumar021/TrustQR-Frontend/blob/main/ScreenShots/ScanQR.jpeg)
+
